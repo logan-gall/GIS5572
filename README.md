@@ -8,6 +8,8 @@ This repository is set up with a folder for each lab or project. Within each fol
 
 * Lab 1 -- Creating data pipeline from ArcGIS primitives to cloud services.
 
+* Lab 2 -- Adding QAQC checks to our data pipelines
+
 ## Running the code
 
 A majority of the runnable code is written in Python files (.py) and Python Jupyter Notebooks (.ipynb). The Jupyter notebooks typically run in ArcGIS Pro, so they require arcpy installation. Within each lab folder is a readme with a greater description of how to run the files.

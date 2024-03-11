@@ -14,7 +14,7 @@ There is one folder in this lab directory:
 
 # Execution
 
-lab2_submission contains files that were the final submission for the assignment. It has a  six .ipynb Jupyter notebooks, and a video_results.pdf which contains links for an overview video and this github repository. The five files are expected to run in an ArGIS notebooks environment. The file paths are defined relatively at the start of the file, but it is generally expected that data is downloaded to the project root folder in ArcGIS Pro. Each .ipynb file has different package requirements. A list of the five files and their description:
+lab2_submission contains files that were the final submission for the assignment. It has a  six .ipynb Jupyter notebooks, a metrics.xlsx for the first part of lab submission, and a video_results.pdf which contains links for an overview video and this github repository. The six .ipynb files are expected to run in an ArGIS notebooks environment. The file paths are defined relatively at the start of the file, but it is generally expected that data is downloaded to the project root folder in ArcGIS Pro. Each .ipynb file has different package requirements. A list of the six files and their description:
 
 * Landcover -- Data flow to download NLCD landcover data from the Minnesota Geospatial Commons, and then perform QAQC checks.
 

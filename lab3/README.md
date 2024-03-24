@@ -5,6 +5,14 @@ The goal of this lab is to create interpolated temperature and elevation maps fo
 
 ## Diagrams
 
+### Interpolation Analysis
+
+![alt text](interpolation.png)
+
+
+### Displaying in ArcOnline
+
+![alt text](webapp.png)
 
 ## Contents:
 

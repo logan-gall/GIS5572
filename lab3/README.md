@@ -25,15 +25,16 @@ Executes three distinct interpolation algorithms.
 Conducts accuracy evaluations and stores results in the database.
 Temperature Interpolation (Temperature_Interpolation.ipynb):
 
+Temperature Interpolation (Temperature_Interpolation.ipynb):
+
 Gathers QAQC'd temperature data for analysis.
 Implements three interpolation algorithms for temperature mapping.
 Evaluates accuracy using appropriate metrics and archives results in the database.
 
-PDF File with Video Link:
+Updated app.py:
 
-Contains a direct link to the ArcOnline MapViewer.
-Presents interpolated elevation and temperature maps.
-Includes layers for accuracy assessment and point differences for comprehensive analysis.
+An updated flask application that runs on google cloud run for gathering data for arc online viewing.
+
 
 ## Key Features:
 

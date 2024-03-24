@@ -8,7 +8,9 @@ This repository is set up with a folder for each lab or project. Within each fol
 
 * Lab 1 -- Creating data pipeline from ArcGIS primitives to cloud services.
 
-* Lab 2 -- Adding QAQC checks to our data pipelines
+* Lab 2 -- Adding QAQC checks to our data pipelines.
+
+* Lab 3 -- Performing interpolation analysis to elevation and temperature.
 
 ## Running the code
 
